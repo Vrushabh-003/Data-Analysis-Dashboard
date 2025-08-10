@@ -3,7 +3,7 @@
 
 
 ---
-
+![Dashboard Screenshot](<URL_to_your_dashboard_screenshot.jpg>)
 ### Project Overview
 
 This project presents a comprehensive analysis of road accident data, developed as part of the selection process for the Data Analysis and Visualization Internship at the Indian Institute of Science (IISc), Bengaluru. The goal was to transform a raw dataset into a fully interactive Power BI dashboard that uncovers key trends, patterns, and insights related to road safety. The dashboard provides a clear, data-driven view of accident statistics, helping to identify major risk factors.
@@ -57,6 +57,6 @@ To view the project, download the `.pbix` file from this repository and open it 
 
 ### Contact
 
-* **Name:** [Vrushabh Shirke]
-* **LinkedIn:** [[LinkedIn Profile](https://in.linkedin.com/in/vrushabhshirke)]
+* **Name:** Vrushabh Shirke
+* **LinkedIn:** [[Vrushabh Shirke](https://in.linkedin.com/in/vrushabhshirke)]
 * **Email:** [vrushabhshirke21@gmail.com]
